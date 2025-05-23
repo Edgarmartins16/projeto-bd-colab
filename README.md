@@ -65,7 +65,3 @@ Curso: [Ciência da Computação]
 Professor: [Denise Moraes do Nascimento Vieira]
 
 ---
-
-## ✅ Status
-
-✔️ Finalizado para entrega e estudo
