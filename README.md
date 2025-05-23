@@ -28,7 +28,7 @@ Relacionamentos:
 
 Imagem do modelo ER:
 
-![Modelo ER](docs/modelo-er.png)
+![Modelo ER](docs/modelo-er.pdf)
 
 ---
 
