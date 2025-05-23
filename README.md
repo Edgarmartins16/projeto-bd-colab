@@ -60,7 +60,7 @@ Imagem do modelo ER:
 
 ## 👨‍💻 Autor
 
-[Edgar Alves Martins]  
+Aluno:[Edgar Alves Martins]  
 Curso: [Ciência da Computação]  
 Professor: [Denise Moraes do Nascimento Vieira]
 
