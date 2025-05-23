@@ -28,7 +28,7 @@ Relacionamentos:
 
 Imagem do modelo ER:
 
-![Modelo ER](docs/modelo-er.png)
+![Modelo ER](https://github.com/Edgarmartins16/projeto-bd-colab/blob/89b30c1f44680d41d4e99d5370c437375d94abb5/Modelo%20ER.png)
 
 ---
 
