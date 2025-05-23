@@ -34,7 +34,8 @@ Imagem do modelo ER:
 
 ## 🧪 Como rodar o notebook
 
-1. Acesse o [Google Colab](https://colab.research.google.com/)
+1. Acesse o [Google Colab]([![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edgarmartins16/projeto-bd-colab/blob/main/Projeto_BD_SQLite_(1).ipynb)
+)
 2. Clique em **“Upload”** e selecione o arquivo `Projeto-BD-SQLite.ipynb`
 3. Execute as células usando o botão ▶️ ou `Shift + Enter`
 
